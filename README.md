@@ -19,3 +19,9 @@ An Ok Singly-Linked Stack
 * Make the list generic
 * Add peeking
 * Make the list iterable
+
+## A Persistent Stack
+A Persistent Singly-Linked Stack
+* Shared Ownership
+* Immutable singly-linked list
+* Rust Rc and Arc
