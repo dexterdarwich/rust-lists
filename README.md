@@ -12,3 +12,10 @@ Singly-Linked Stack, that implements:
 * Pop - Remove an element from the head of the stack.
 * Drop - Implemented the drop trait to clean up iteratively.
 * Added tests.
+
+## An Ok Stack
+An Ok Singly-Linked Stack
+* Deinvent the wheel
+* Make the list generic
+* Add peeking
+* Make the list iterable
