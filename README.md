@@ -25,3 +25,8 @@ A Persistent Singly-Linked Stack
 * Shared Ownership
 * Immutable singly-linked list
 * Rust Rc and Arc
+
+## A Bad Safe Deque
+A Bad Safe Doubly-Linked Deque
+* Doubly Linked List
+* Interior Mutability
