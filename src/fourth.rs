@@ -105,6 +105,7 @@ mod test {
         assert_eq!(list.pop_front(), None);
     }
 
+    #[test]
     fn peek() {
         let mut list = List::new();
         assert!(list.peek_front().is_none());
