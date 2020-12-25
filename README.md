@@ -1,6 +1,8 @@
 # rust-lists
 Learn Rust by writing linked lists.
 
+![Rust](https://github.com/dexterdarwich/rust-lists/workflows/Rust/badge.svg)
+
 ## Background
 While learning Rust, I decided to follow this great resource [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/).
 
