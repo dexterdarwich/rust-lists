@@ -32,3 +32,7 @@ A Persistent Singly-Linked Stack
 A Bad Safe Doubly-Linked Deque
 * Doubly Linked List
 * Interior Mutability
+
+## An Unsafe Queue
+An Unsafe singly linked Queue
+* Raw pointers and Unsafe Rust
